@@ -3,7 +3,7 @@ pocket = 50;
 
 console.log(pocket);
 
-var firstName; // camal case 
+var firstName; // camal case
 firstName = 'Nayeem';
 
 console.log(firstName);

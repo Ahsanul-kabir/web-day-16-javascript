@@ -28,6 +28,6 @@ console.log(random_number);
 
 // so, handle huge number
 var number = Math.random() * 100;
-console.log(number); // make maining full number
+console.log(number); // make maining full number~
 var result = Math.round(number);
 console.log(result);

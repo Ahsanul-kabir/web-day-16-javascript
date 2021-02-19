@@ -30,7 +30,7 @@ console.log(number3 + number4);
 
 
 var number3 = 20;
-var number4 = '35';
+var number4 = 35;
 number4 = '' + number4; // convert to string = shortcut
 console.log(number3 + number4);
 console.log(typeof number4)

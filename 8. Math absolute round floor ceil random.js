@@ -17,7 +17,7 @@ var result = Math.ceil(number); // ceil = up e jbe
 console.log(result);
 
 var number = 6.77;
-var result = Math.floor(number); // floor = up e jbe
+var result = Math.floor(number); // floor = bottom e jbe
 console.log(result);
 
 
